@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>📞 +7 (938) 145-48-11  </td>
-    <td rowspan="2"> </tr>
+    <td rowspan="2"> <img src="/foto.jpg" alt="I" > </tr>
   <tr>
     <td> 📧 vyacheslav.perkov@yandex.ru </td>
   </tr>
