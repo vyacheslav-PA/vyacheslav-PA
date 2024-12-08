@@ -2,11 +2,7 @@
 📧 vyacheslav.perkov@yandex.ru  
 
 
-<table>
-    <tr>
-        <td>f</td>
-    </tr>
-</table>
+
 
 * * *
 
